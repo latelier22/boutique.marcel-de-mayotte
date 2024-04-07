@@ -1,0 +1,24 @@
+# This file is part of the Sylius package.
+# (c) Sylius Sp. z o.o.
+
+sylius:
+    footer:
+        banner:
+            free_shipping_title: 'Livraison dans le monde entier (Hors Mayotte)'
+            free_shipping_content: 'Livrason au meilleur prix, selon vos besoins'
+            guarantee_title: 'Satisfait ou remboursé'
+            guarantee_content: 'Satisfait ou remboursé sous 30 jours'
+            multiple_payments_title: 'Multiples options de paiement'
+            multiple_payments_content: 'Nous acceptons les cartes de crédit et PayPal'
+    homepage:
+        about_us: 'À propos de nous'
+        about_us_content: 'Bienvenu(e) dans la boutique en ligne de Marcel Séjour. On vous propose des produits dérivés personnalisables à partir des oeuvres du peintre. '
+        banner_content: 'Découvrez l''univers de Marcel Séjour'
+        banner_button: 'Jetez un coup d''œil aux nouveaux tableaux!'
+        carousel_header: 'Les produits dérivés stars'
+        newsletter: 'Newsletter'
+        newsletter_description: 'Abonnez-vous à notre newsletter'
+        subscribe: 'S''abonner'
+    top_bar: 'Inscrivez-vous à notre newsletter pour connaître la programation des expositions en métropoles...'
+    ui:
+        latest_products: 'Derniers tableaux du peintre'
